@@ -1,4 +1,4 @@
-<img width="724" height="568" alt="image" src="https://github.com/user-attachments/assets/5a03d749-9295-49f5-9a04-0cc20e72736c" />**TOPSIS Analysis of Pretrained Models**
+**TOPSIS Analysis of Pretrained Models**
 
 **Project Overview**
 
@@ -130,6 +130,7 @@ Overall, lighter transformer-based models (like DistilGPT2) showed strong perfor
 ---
 
 **TOPSIS Ranking Visualization**
+<img width="724" height="568" alt="image" src="https://github.com/user-attachments/assets/5a03d749-9295-49f5-9a04-0cc20e72736c" />
 **Graph Discussion**
 
 The graph shows the TOPSIS scores of different pretrained text generation models.
